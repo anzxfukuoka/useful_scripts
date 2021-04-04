@@ -1,5 +1,5 @@
-# Useful scripts
-Useful scripts (Unity)
+# Useful scripts (Unity)
+Useful scripts
 
 [EasingFunctions.cs](https://gist.github.com/cjddmut/d789b9eb78216998e95c)
 
